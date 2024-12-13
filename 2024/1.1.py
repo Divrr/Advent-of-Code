@@ -10,7 +10,7 @@ def pair_distance(left, right):
     return count
 
 # --------------------------------------
-f = open("2024/1.1in.txt", "r")
+f = open("2024/1in.txt", "r")
 left, right = [], []
 
 for line in f.readlines():
